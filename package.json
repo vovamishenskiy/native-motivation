@@ -2,7 +2,7 @@
   "name": "native-motivation",
   "private": false,
   "version": "0.0.0",
-  "homepage": "https://vovamishenskiy.github.io/native-motivation/",
+  "homepage": "https://vovamishenskiy.github.io/native-motivation",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
